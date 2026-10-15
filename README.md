@@ -39,15 +39,17 @@
   <img src="https://streak-stats.demolab.com?user=emilyshaas&theme=midnight-purple&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Emily" />
 </div>
 
+
 ## 🐍 Minhas contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilyshaas/emilyshaas/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilyshaas/emilyshaas/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação de cobrinha nas contribuições do GitHub" src="https://raw.githubusercontent.com/emilyshaas/emilyshaas/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/emilyshaas/emilyshaas/output/github-contribution-grid-snake-dark.svg"
+    alt="Animação da cobrinha nas contribuições do GitHub"
+    width="100%"
+  />
 </div>
+
 
 ## 📫 Entre em contato
 
