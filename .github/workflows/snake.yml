@@ -1,3 +1,4 @@
+
 name: Gerar cobrinha das contribuições
 
 on:
@@ -17,8 +18,9 @@ jobs:
         with:
           github_user_name: emilyshaas
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a855f7
+            dist/github-contribution-grid-snake.svg?color_snake=#a78bfa&color_dots=#ebedf0,#d8c8ec,#b9a0d6,#9474b9,#75519d
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#a78bfa&color_dots=#242331,#383047,#55416e,#78559b,#a17bc8
+
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
