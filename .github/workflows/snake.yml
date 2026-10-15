@@ -13,13 +13,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+     
       - name: Gerar animações
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: emilyshaas
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#a78bfa&color_dots=#ebedf0,#d8c8ec,#b9a0d6,#9474b9,#75519d
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#a78bfa&color_dots=#242331,#383047,#55416e,#78559b,#a17bc8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#a78bfa&color_dots=#34313f,#50445f,#6b5485,#8969ac,#ac8ad5
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
