@@ -4,9 +4,9 @@
 
 ### Emily Schmitt Haas
 
-🎓 Estudante de **Ciência da Computação** no **IFRS — Campus Ibirubá**  
-💻 Formada no curso **Técnico em Informática**  
-✨ Aprendendo, desenvolvendo e explorando novas tecnologias!
+Estudante de **Ciência da Computação** no **IFRS — Campus Ibirubá**  
+Formada no curso **Técnico em Informática**  
+Aprendendo, desenvolvendo e explorando novas tecnologias!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=120&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Boas-vindas ao perfil da Emily" width="100%" />
 
@@ -14,12 +14,12 @@
 
 ## 💜 Sobre mim
 
-- 📚 Cursando **Ciência da Computação** no IFRS — Campus Ibirubá.
-- 🎓 Formação técnica em **Informática**.
-- 🌱 Sempre buscando aprender mais sobre programação e desenvolvimento de software.
-- 🚀 Compartilhando projetos, exercícios e minha evolução na área de tecnologia.
+- Cursando **Ciência da Computação** no IFRS — Campus Ibirubá.
+- Formação técnica em **Informática**.
+- Sempre buscando aprender mais sobre programação e desenvolvimento de software.
+- Compartilhando projetos, exercícios e minha evolução na área de tecnologia.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,postgres&theme=dark" alt="Java, C, C++, HTML, CSS, JavaScript e PostgreSQL" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </div>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=emilyshaas&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Emily" />
@@ -40,7 +40,7 @@
 </div>
 
 
-## 🐍 Minhas contribuições
+## Minhas contribuições
 
 <div align="center">
   <img
@@ -51,7 +51,7 @@
 </div>
 
 
-## 📫 Entre em contato
+## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emily-schmitt-haas-a46946291/" target="_blank">
