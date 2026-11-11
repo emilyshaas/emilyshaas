@@ -30,14 +30,7 @@ Aprendendo, desenvolvendo e explorando novas tecnologias!
 
 ## Estatísticas do GitHub
 
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=emilyshaas&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Emily" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyshaas&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Emily" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=emilyshaas&theme=midnight-purple&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Emily" />
-</div>
 
 
 ## Minhas contribuições
