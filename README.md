@@ -28,7 +28,6 @@ Aprendendo, desenvolvendo e explorando novas tecnologias!
   <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </div>
 
-## Estatísticas do GitHub
 
 
 
